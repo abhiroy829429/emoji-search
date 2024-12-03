@@ -1,0 +1,33 @@
+.Footer {
+    text-align: left;
+    margin: 30px 0px;
+    line-height: 1.4em;
+  }
+  
+  .copyright {
+      font-size: 0.6em;
+  }
+  .social{
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-end;
+      align-content: flex-end;
+
+  }
+  .social li{
+      display: flex;
+      justify-content: space-between;
+      margin: 10px;
+  }
+  .container{
+      display: flex;
+      align-items: flex-end;
+      align-content: flex-end;
+  }
+  h5{
+      margin-bottom: -5%;
+  }
+  p{
+      margin-top: auto;
+      
+  }
