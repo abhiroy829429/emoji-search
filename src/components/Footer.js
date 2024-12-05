@@ -18,16 +18,15 @@ function Footer() {
       
       <h5>Contact Developer</h5>
       <ol className='social'>
-        <li><a href='https://www.facebook.com/prahlad.kumar.545402/'><BsFacebook /></a></li>
-        <li><a href='https://www.instagram.com/prahladgupta_/'><BsInstagram /></a></li>
-        <li><a href='https://www.linkedin.com/in/theprahladkumar/'><FaLinkedinIn  /></a></li>
-        <li><a href='https://github.com/Prahladk09'><FaGithub /></a></li>
-        <li><a href='https://twitter.com/Prahladk09'><BsTwitter /></a></li>
-        <li><a href='mailto: prahladk09@gmail.com'><SiGmail /></a></li>
+      <li><a href="https://www.instagram.com/abhiroy70611/" target="_blank" rel="noopener noreferrer"><BsInstagram /></a></li>
+<li><a href="https://www.linkedin.com/in/abhimanyu-kumar-6a9154292/" target="_blank" rel="noopener noreferrer"><FaLinkedinIn /></a></li>
+<li><a href="https://github.com/abhiroy829429" target="_blank" rel="noopener noreferrer"><FaGithub /></a></li>
+<li><a href="mailto:abhiroy829429@gmail.com" target="_blank" rel="noopener noreferrer"><SiGmail /></a></li>
+
       </ol>
 
         <p className="copyright">
-        &copy; Copyright {getCurrentYear()} Prahlad Kumar | All Rights Reserved. 
+        &copy; Copyright {getCurrentYear()} Abhimanyu Kumar | All Rights Reserved. 
         </p>
       </div>
     </div>
